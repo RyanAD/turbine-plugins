@@ -2,6 +2,9 @@
 
 See the [Wiki](https://github.com/bbcom/turbine-plugins/wiki) for full documentation.
 
+## Build Status
+[![Build Status](https://travis-ci.org/bbcom/turbine-plugins.svg?branch=master)](https://travis-ci.org/bbcom/turbine-plugins)
+
 ## Bugs and Feedback
 
 For bugs, questions and discussions please use the [Github Issues](https://github.com/bbcom/turbine-plugins/issues).
